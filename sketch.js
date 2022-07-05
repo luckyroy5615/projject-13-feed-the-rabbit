@@ -1,7 +1,6 @@
 var garden,rabbit,apple,orangeL,redL;
 var gardenImg,rabbitImg,carrotImg,orangeImg,redImg;
 
-
 function preload(){
   gardenImg = loadImage("garden.png");
   rabbitImg = loadImage("rabbit.png");
